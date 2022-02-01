@@ -1,4 +1,4 @@
-package br.com.bancosimples.test.util;
+package br.com.bancosimples.test;
 
-public class TesteArrayList {
+public class TesteGuardadorContas {
 }

@@ -1,4 +1,7 @@
 package br.com.bancosimples.model;
 
-public class Cliente {
+
+public interface Tributavel {
+
+    double getValorImposto();
 }

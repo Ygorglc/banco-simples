@@ -1,8 +1,8 @@
 package br.com.bancosimples.model;
 
-public class SaldoInsulficienteException extends Exception{
+public class SaldoInsuficienteException extends Exception{
 
-    public SaldoInsulficienteException(String msg) {
+    public SaldoInsuficienteException(String msg) {
         super(msg);
     }
 

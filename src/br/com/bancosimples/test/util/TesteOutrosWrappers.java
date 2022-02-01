@@ -1,2 +1,4 @@
-package br.com.bancosimples.test.util;public class TesteOutrosWrappers {
+package br.com.bancosimples.test.util;
+
+public class TesteOutrosWrappers {
 }

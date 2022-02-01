@@ -1,2 +1,4 @@
-package br.com.bancosimples.test;public class TesteGuardadorReferencias {
+package br.com.bancosimples.test;
+
+public class TesteGuardadorReferencias {
 }

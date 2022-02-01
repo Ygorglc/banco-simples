@@ -1,2 +1,4 @@
-package br.com.bancosimples.test;public class TesteArrayReferencias {
+package br.com.bancosimples.test;
+
+public class TesteArrayReferencias {
 }

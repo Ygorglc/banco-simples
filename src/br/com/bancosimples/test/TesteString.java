@@ -1,2 +1,4 @@
-package br.com.bancosimples.test;public class TesteString {
+package br.com.bancosimples.test;
+
+public class TesteString {
 }
